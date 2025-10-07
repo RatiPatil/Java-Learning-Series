@@ -1,0 +1,8 @@
+Java Learning Notes - Introduction
+
+1. Java is a high-level, object-oriented programming language.
+2. Java programs run on the JVM (Java Virtual Machine), making it platform-independent.
+3. Basic concepts: Variables, Data Types, Operators, Loops, OOP.
+4. File organization:
+   - notes/ : contains theory and notes
+   - programmes/ : contains example Java programs
