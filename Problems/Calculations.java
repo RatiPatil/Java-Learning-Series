@@ -64,7 +64,7 @@ public class Calculations {
 }
 
 
-// Method Second 
+// Second Method
 
 
 // import java.util.*;
