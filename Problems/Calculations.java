@@ -62,3 +62,51 @@ public class Calculations {
     sc.close();
   }
 }
+
+
+// Method Second 
+
+
+// import java.util.*;
+
+// public class other3 {
+//   public static void main(String[] args) {
+//     Scanner sc = new Scanner(System.in);
+
+//     int a;
+//     int b;
+//     char opret;
+
+//     System.out.print("Enter first number: ");
+//     a = sc.nextInt();
+
+//     System.out.print("Enter second number: ");
+//     b = sc.nextInt();
+
+//     System.out.print("Enter operation to be performed (+, -, *, /, %): ");
+//     opret = sc.next().charAt(0);
+
+//     if (opret == '+') {
+//       System.out.println("The Addition of Two Numbers is: " + (a + b));
+//     } else if (opret == '-') {
+//       System.out.println("The Subtraction of Two Numbers is: " + (a - b));
+//     } else if (opret == '*') {
+//       System.out.println("The Multiplication of Two Numbers is: " + (a * b));
+//     } else if (opret == '/') {
+//       if (b != 0) {
+//         System.out.println("The Division of Two Numbers is: " + (a / b));
+//       } else {
+//         System.out.println("Error: Division by zero is not allowed.");
+//       }
+//     } else if (opret == '%') {
+//       if (b != 0) {
+//         System.out.println("The Modulo of Two Numbers is: " + (a % b));
+//       } else {
+//         System.out.println("Error: Modulo by zero is not allowed.");
+//       }
+//     } else {
+//       System.out.println("Enter a valid operation (+, -, *, /, %)");
+//     }
+//     sc.close();
+//   }
+// }
