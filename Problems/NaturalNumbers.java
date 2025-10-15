@@ -11,12 +11,12 @@ public class NaturalNumbers {
 
         // Loop to calculate sum of first n natural numbers
         for (int i = 1; i <= n; i++) {
-            sum += i;  // sum = sum + i
+            sum += i; // sum = sum + i
         }
 
         // Display the result
         System.out.println("The sum of first " + n + " natural numbers is: " + sum);
-        
+
         sc.close();
     }
 }
