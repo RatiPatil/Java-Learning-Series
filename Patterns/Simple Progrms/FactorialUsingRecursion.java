@@ -1,4 +1,4 @@
-
+ 
 public class FactorialUsingRecursion {
 
     // Recursive function to find factorial
@@ -16,4 +16,3 @@ public class FactorialUsingRecursion {
         System.out.println("Factorial of " + number + " is: " + result);
     }
 }
-// This code calculates the factorial of a number using recursion in java.
