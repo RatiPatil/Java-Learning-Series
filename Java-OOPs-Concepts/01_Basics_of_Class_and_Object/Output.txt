@@ -1,0 +1,6 @@
+Default constructor called
+Name: Unknown, Age: 0
+Parameterized constructor called
+Name: Rati, Age: 21
+Copy constructor called
+Name: Rati, Age: 21
