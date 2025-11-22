@@ -18,6 +18,7 @@ public class PalindromeTriangle {
             // Print ascending numbers
             for (int num = 2; num <= i; num++) {
                 System.out.print(num + " ");
+                
             }
 
             // Move to next line
