@@ -27,7 +27,7 @@ public class OnlineQuizGame {
         int score = 0;
 
         System.out.println("=================================");
-        System.out.println("        JAVA QUIZ GAME");
+        System.out.println("        JAVA QUIZ GAME  ");
         System.out.println("=================================");
 
         for (int i = 0; i < questions.length; i++) {
