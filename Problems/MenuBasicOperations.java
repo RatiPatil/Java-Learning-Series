@@ -35,6 +35,7 @@ public class MenuBasicOperations {
             System.out.println("6. Check Even or Odd");
             System.out.println("7. Reverse a Number");
             System.out.println("8. Exit");
+            
             System.out.print("Enter your choice: ");
             choice = sc.nextInt();
 
