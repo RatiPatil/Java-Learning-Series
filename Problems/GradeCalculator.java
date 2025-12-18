@@ -13,29 +13,28 @@ public class GradeCalculator {
             System.out.print("Enter Marks (0-100): ");
             int marks = sc.nextInt();
 
-            String grade = "";
+            String grade;
 
-            // Using if-else
-            if (marks >= 90) {
+            // Simple if-else
+            if (marks >= 90)
                 grade = "A+";
-            } else if (marks >= 80) {
+            else if (marks >= 80)
                 grade = "A";
-            } else if (marks >= 70) {
+            else if (marks >= 70)
                 grade = "B";
-            } else if (marks >= 60) {
+            else if (marks >= 60)
                 grade = "C";
-            } else if (marks >= 50) {
+            else if (marks >= 50)
                 grade = "D";
-            } else {
+            else
                 grade = "Fail";
-            }
 
             System.out.println("\n----- Report Card -----");
             System.out.println("Student Name: " + name);
             System.out.println("Marks: " + marks);
             System.out.println("Grade: " + grade);
 
-            // Switch example
+            // Simple switch
             switch (grade) {
                 case "A+":
                 case "A":
@@ -54,8 +53,7 @@ public class GradeCalculator {
 
             System.out.print("\nDo you want to check another student? (y/n): ");
             choice = sc.next().charAt(0);
-
-            System.out.println(); // for spacing
+            System.out.println();
 
         } while (choice == 'y' || choice == 'Y');
 
