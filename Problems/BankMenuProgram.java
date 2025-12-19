@@ -16,7 +16,7 @@ class BankAccount {
     // Deposit method
     void deposit(double amount){
         balance += amount;
-        System.out.println("Amount Deposited Successfully.");
+        System.out.println("Amount Deposited Successfully...");
     }
 
     // Withdraw method
