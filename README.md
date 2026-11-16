@@ -1,6 +1,6 @@
 # Java OOPs Concepts 🚀
 
-This repository contains all core Object-Oriented Programming (OOP) concepts in Java — from basics to advanced — with examples, outputs, and explanations.
+This repository contains all core Object-Oriented Programming (OOP) concepts in Java — from basics to advanced — with examples, outputs, and
 
 ## 📚 Topics Covered
 1. Class and Object
